@@ -51,7 +51,7 @@
         </mxCell>
         <mxCell id="ripQJyzUoQtwZE7T1qQk-15" value="数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ripQJyzUoQtwZE7T1qQk-8">
           <mxGeometry x="-0.0976" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ripQJyzUoQtwZE7T1qQk-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ripQJyzUoQtwZE7T1qQk-2">
