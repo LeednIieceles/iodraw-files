@@ -20,13 +20,31 @@
           <mxGeometry x="960" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-78" value="警务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="170" width="160" height="50" as="geometry" />
+          <mxGeometry x="740" y="180" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-79" value="人员信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-80" value="警务数据库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="390" as="sourcePoint" />
+            <mxPoint x="860" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="390" as="sourcePoint" />
+            <mxPoint x="860" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="390" as="sourcePoint" />
+            <mxPoint x="860" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
