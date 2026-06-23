@@ -14,7 +14,7 @@
           <mxGeometry x="600" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-76" value="风险事件处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="920" y="420" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-77" value="系统配置管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="320" width="120" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="760" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-79" value="人员信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="420" width="120" height="30" as="geometry" />
+          <mxGeometry x="920" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
