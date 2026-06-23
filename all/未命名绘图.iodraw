@@ -10,8 +10,11 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-74" value="居住历史管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-75" value="居住历史管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="650" width="120" height="30" as="geometry" />
+        <mxCell id="fyxco-jAyFUefR-uC-HY-75" value="从业单位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-76" value="从业单位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
