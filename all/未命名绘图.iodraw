@@ -193,8 +193,8 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-123" value="居住查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="540" y="329.9966666666666" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-124" value="居住信息录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="409.99666666666667" as="geometry" />
+        <mxCell id="fyxco-jAyFUefR-uC-HY-124" value="居住信息录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-64;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="129.99666666666667" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
