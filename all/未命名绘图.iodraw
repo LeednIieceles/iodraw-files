@@ -40,7 +40,7 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-77" value="系统配置管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fyxco-jAyFUefR-uC-HY-72">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-78" target="fyxco-jAyFUefR-uC-HY-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="730" y="220" as="sourcePoint" />
             <Array as="points">
