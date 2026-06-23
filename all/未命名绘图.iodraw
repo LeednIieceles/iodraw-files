@@ -77,8 +77,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="860" y="150" />
-              <mxPoint x="1120" y="150" />
-              <mxPoint x="1120" y="463" />
+              <mxPoint x="1130" y="150" />
+              <mxPoint x="1130" y="463" />
               <mxPoint x="1080" y="463" />
             </Array>
           </mxGeometry>
@@ -101,7 +101,13 @@
           <mxGeometry x="760" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.875;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-76" target="fyxco-jAyFUefR-uC-HY-78">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="448" />
+              <mxPoint x="1120" y="160" />
+              <mxPoint x="880" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
