@@ -7,7 +7,7 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-72" value="房屋信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-74" value="房屋信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-74" value="居住历史管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="640" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
