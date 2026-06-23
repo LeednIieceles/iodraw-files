@@ -74,6 +74,11 @@
             <mxPoint x="11" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-134" value="居住信息录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-90">
+          <mxGeometry x="0.3758" y="-1" relative="1" as="geometry">
+            <mxPoint x="561" y="-27" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-78" target="fyxco-jAyFUefR-uC-HY-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -204,6 +209,9 @@
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-133" value="风险事件录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1000" y="139.99666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="fyxco-jAyFUefR-uC-HY-135" value="居住查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1090" y="329.9966666666666" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
