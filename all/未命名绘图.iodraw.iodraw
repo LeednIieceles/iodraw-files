@@ -7,6 +7,9 @@
         <mxCell id="ripQJyzUoQtwZE7T1qQk-1" value="警务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="85" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ripQJyzUoQtwZE7T1qQk-2" value="社区警务管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="85" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
