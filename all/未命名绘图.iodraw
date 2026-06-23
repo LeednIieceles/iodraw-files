@@ -61,9 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-118" value="房屋信息录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-88">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-118" value="房屋信息录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-88">
           <mxGeometry x="0.7003" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="40" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-78" target="fyxco-jAyFUefR-uC-HY-74">
