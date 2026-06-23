@@ -7,9 +7,6 @@
         <mxCell id="ripQJyzUoQtwZE7T1qQk-1" value="警务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ripQJyzUoQtwZE7T1qQk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ripQJyzUoQtwZE7T1qQk-2" target="ripQJyzUoQtwZE7T1qQk-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ripQJyzUoQtwZE7T1qQk-2" value="社区警务管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="100" height="30" as="geometry" />
         </mxCell>
@@ -28,10 +25,10 @@
             <mxPoint x="425" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ripQJyzUoQtwZE7T1qQk-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="ripQJyzUoQtwZE7T1qQk-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ripQJyzUoQtwZE7T1qQk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="395" y="270" as="sourcePoint" />
-            <mxPoint x="395" y="310" as="targetPoint" />
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ripQJyzUoQtwZE7T1qQk-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ripQJyzUoQtwZE7T1qQk-3">
