@@ -199,7 +199,7 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-125" value="单位查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="620" y="169.9966666666666" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-132" value="单位查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-132" value="风险预警报告" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1000" y="169.9966666666666" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-133" value="风险事件录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
