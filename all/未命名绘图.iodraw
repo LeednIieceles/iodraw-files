@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-119" value="房屋查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-89">
           <mxGeometry x="-0.6095" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-72" value="房屋信息管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
