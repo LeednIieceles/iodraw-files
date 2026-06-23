@@ -76,8 +76,8 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-78" target="fyxco-jAyFUefR-uC-HY-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="160" />
-              <mxPoint x="1120" y="160" />
+              <mxPoint x="860" y="150" />
+              <mxPoint x="1120" y="150" />
               <mxPoint x="1120" y="448" />
             </Array>
           </mxGeometry>
