@@ -210,7 +210,7 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-133" value="风险事件录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1000" y="139.99666666666667" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-135" value="居住查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="1">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-135" value="居住查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1090" y="329.9966666666666" as="geometry" />
         </mxCell>
       </root>
