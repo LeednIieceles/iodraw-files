@@ -13,10 +13,14 @@
         <mxCell id="ripQJyzUoQtwZE7T1qQk-3" value="警务数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ripQJyzUoQtwZE7T1qQk-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ripQJyzUoQtwZE7T1qQk-1" target="ripQJyzUoQtwZE7T1qQk-2">
+        <mxCell id="ripQJyzUoQtwZE7T1qQk-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ripQJyzUoQtwZE7T1qQk-1" target="ripQJyzUoQtwZE7T1qQk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="250" as="sourcePoint" />
             <mxPoint x="425" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="235" />
+              <mxPoint x="330" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ripQJyzUoQtwZE7T1qQk-13" value="录入、查询、&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); --darkreader-inline-bgcolor: var(--darkreader-background-ffffff, #181a1b); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;修改&lt;/span&gt;&lt;div&gt;&lt;span data-darkreader-inline-color=&quot;&quot; data-darkreader-inline-bgcolor=&quot;&quot; style=&quot;background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); --darkreader-inline-bgcolor: var(--darkreader-background-ffffff, #181a1b); --darkreader-inline-color: var(--darkreader-text-000000, #e8e6e3);&quot;&gt;数据&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ripQJyzUoQtwZE7T1qQk-4">
