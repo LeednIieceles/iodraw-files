@@ -7,7 +7,7 @@
         <mxCell id="fyxco-jAyFUefR-uC-HY-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyxco-jAyFUefR-uC-HY-72" target="fyxco-jAyFUefR-uC-HY-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fyxco-jAyFUefR-uC-HY-119" value="房屋查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-89">
+        <mxCell id="fyxco-jAyFUefR-uC-HY-119" value="房屋查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="fyxco-jAyFUefR-uC-HY-89">
           <mxGeometry x="-0.6095" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -191,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fyxco-jAyFUefR-uC-HY-123" value="居住查询结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="540" y="319.9966666666666" as="geometry" />
+          <mxGeometry x="540" y="329.9966666666666" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
